@@ -19,7 +19,7 @@ import java.awt.geom.Point2D.Double;
 import java.net.URL;
 import java.util.ArrayList;
 
-/*
+/* test commit
  * TODO
  *	- walls created before other walls finish expanding causes issues
  *		+ possible solution is to have fields in Wall for projected maxX, maxY, minX, minY
